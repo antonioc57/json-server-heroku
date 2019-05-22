@@ -12,7 +12,7 @@
 
 ## Create your database
 
-1 . Clone this repo to anywhere on your computer.
+1 . .Clone this repo to anywhere on your computer.
 
 ```bash
 git clone https://github.com/jesperorb/json-server-heroku.git
