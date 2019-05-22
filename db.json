@@ -1,16 +1,69 @@
 {
-  "posts":[
+  "cedentes": [
     {
-      "id" : 0,
-      "title": "First post!",
-      "content" : "My first content!"
-    }
-  ],
-  "comments" : [
-    {
-      "id": 0,
-      "content": "Wow such content!",
-      "username": "zero_cool"
+      "Id": 0,
+      "CodCedente": 3,
+      "CodConvenio": 0,
+      "Face": 142000,
+      "VOP": 142000,
+      "PMP": 22,
+      "Float": 5,
+      "PMP_Float": 27,
+      "Desagio": 4971.42,
+      "Taxa": 0.038900000000000004,
+      "Liquido": 137003.58,
+      "Pendencias": 0,
+      "Tarifas": 25,
+      "Bordero": {
+        "Cod": 0,
+        "Titulos": [
+          {
+            "Codigo": "00001.1",
+            "Cedente": "Flut",
+            "Emissao": "2019-04-22T00:00:00",
+            "DtOperacao": null,
+            "Valor": 50000,
+            "Sacado": "Chaves",
+            "Selecionado": true,
+            "Vencto": "2019-06-12T00:00:00",
+            "Operada": false,
+            "VencOper": 22,
+            "VencEmis": 51,
+            "PrazoFace": 1100000,
+            "Mensagem": null
+          },
+          {
+            "Codigo": "00001.1",
+            "Cedente": "Flut",
+            "Emissao": "2019-04-22T00:00:00",
+            "DtOperacao": null,
+            "Valor": 30000,
+            "Sacado": "Chaves",
+            "Selecionado": true,
+            "Vencto": "2019-06-12T00:00:00",
+            "Operada": false,
+            "VencOper": 22,
+            "VencEmis": 51,
+            "PrazoFace": 660000,
+            "Mensagem": null
+          },
+          {
+            "Codigo": "00001.1",
+            "Cedente": "Flut",
+            "Emissao": "2019-04-22T00:00:00",
+            "DtOperacao": null,
+            "Valor": 62000,
+            "Sacado": "Chaves",
+            "Selecionado": true,
+            "Vencto": "2019-06-12T00:00:00",
+            "Operada": false,
+            "VencOper": 22,
+            "VencEmis": 51,
+            "PrazoFace": 1364000,
+            "Mensagem": null
+          }
+        ]
+      }
     }
   ]
 }
