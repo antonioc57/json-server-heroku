@@ -121,5 +121,53 @@
     "valor":320000,
     "prazo":"D+40",
     "cfop":"1.117"
+  }],
+  "todas": [{
+    "id":1,
+    "tempo":"09:00",
+    "nome":"ALPHA INDUSTRIA LTDA",
+    "valor":542000,
+    "prazo":"D+21",
+    "cfop":"1.117"
+  },
+  {
+    "id":2,
+    "tempo":"16:00",
+    "nome":"STAR ILUMINA LTDA",
+    "valor":822000,
+    "prazo":"D+30",
+    "cfop":"1.117"
+  },
+  {
+    "id":3,
+    "tempo":"15:00",
+    "nome":"ADONIS INDUSTRIA LTDA",
+    "valor":912000,
+    "prazo":"D+40",
+    "cfop":"1.117"
+  },
+  {
+    "id":4,
+    "tempo":"10:00",
+    "nome":"LEONIDAS INDUSTRIA LTDA",
+    "valor":643000,
+    "prazo":"D+21",
+    "cfop":"1.117"
+  },
+  {
+    "id":5,
+    "tempo":"12:00",
+    "nome":"AGUIA INDUSTRIA LTDA",
+    "valor":143000,
+    "prazo":"D+19",
+    "cfop":"1.117"
+  },
+  {
+    "id":6,
+    "tempo":"15:00",
+    "nome":"BETA INDUSTRIA LTDA",
+    "valor":243000,
+    "prazo":"D+40",
+    "cfop":"1.117"
   }]
 }
