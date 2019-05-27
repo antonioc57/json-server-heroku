@@ -169,5 +169,76 @@
     "valor":243000,
     "prazo":"D+40",
     "cfop":"1.117"
-  }]
+  }],
+  operacoes:[
+    {
+        "idOperacao": 10,
+        "idCedente": 1,
+        "cedente": "Andrew",
+        "idConvenio": 2,
+        "convenio": "Antonio",
+        "idStep": 4,
+        "step": {
+            "id": 4,
+            "nome": "Pagamento",
+            "descricao": "Pagamento",
+            "relativePath": "/operacao/pagamento"
+        },
+        "idFinalizacao": 1,
+        "finalizacao": {
+            "id": 0,
+            "nome": null,
+            "descricao": null
+        },
+        "valorBruto": 48021.32,
+        "inicioOperacao": "0001-01-01T00:00:00",
+        "expiraOperacao": "0001-01-01T00:00:00"
+    },
+    {
+        "idOperacao": 10,
+        "idCedente": 1,
+        "cedente": "Andrew",
+        "idConvenio": 2,
+        "convenio": "Antonio",
+        "idStep": 4,
+        "step": {
+            "id": 4,
+            "nome": "Pagamento",
+            "descricao": "Pagamento",
+            "relativePath": "/operacao/pagamento"
+        },
+        "idFinalizacao": 1,
+        "finalizacao": {
+            "id": 0,
+            "nome": null,
+            "descricao": null
+        },
+        "valorBruto": 48021.32,
+        "inicioOperacao": "0001-01-01T00:00:00",
+        "expiraOperacao": "0001-01-01T00:00:00"
+    },
+    {
+        "idOperacao": 10,
+        "idCedente": 1,
+        "cedente": "Andrew",
+        "idConvenio": 2,
+        "convenio": "Antonio",
+        "idStep": 4,
+        "step": {
+            "id": 4,
+            "nome": "Pagamento",
+            "descricao": "Pagamento",
+            "relativePath": "/operacao/pagamento"
+        },
+        "idFinalizacao": 1,
+        "finalizacao": {
+            "id": 0,
+            "nome": null,
+            "descricao": null
+        },
+        "valorBruto": 48021.32,
+        "inicioOperacao": "0001-01-01T00:00:00",
+        "expiraOperacao": "0001-01-01T00:00:00"
+    }
+  ]
 }
