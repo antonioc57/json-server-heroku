@@ -172,7 +172,7 @@
   }],
   "operacoes":[
     {
-        "idOperacao": 10,
+        "idOperacao": 10083,
         "idCedente": 1,
         "cedente": "Andrew Luciano",
         "idConvenio": 2,
@@ -195,7 +195,7 @@
         "expiraOperacao": "0001-01-01T00:00:00"
     },
     {
-        "idOperacao": 10,
+        "idOperacao": 12009,
         "idCedente": 1,
         "cedente": "FOX Industria",
         "idConvenio": 2,
@@ -207,7 +207,7 @@
             "descricao": "Pagamento",
             "relativePath": "/operacao/pagamento"
         },
-        "idFinalizacao": 1,
+        "idFinalizacao": 13234,
         "finalizacao": {
             "id": 0,
             "nome": null,
@@ -218,7 +218,7 @@
         "expiraOperacao": "0001-01-01T00:00:00"
     },
     {
-        "idOperacao": 10,
+        "idOperacao": 26430,
         "idCedente": 1,
         "cedente": "Minotauro Industria",
         "idConvenio": 2,
