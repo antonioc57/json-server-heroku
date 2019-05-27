@@ -170,7 +170,7 @@
     "prazo":"D+40",
     "cfop":"1.117"
   }],
-  operacoes:[
+  "operacoes":[
     {
         "idOperacao": 10,
         "idCedente": 1,
