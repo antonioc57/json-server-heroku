@@ -172,6 +172,29 @@
   }],
   "operacoes":[
     {
+        "idOperacao": 13083,
+        "idCedente": 1,
+        "cedente": "Andrew Luciano",
+        "idConvenio": 2,
+        "convenio": "Antonio Lima",
+        "idStep": 4,
+        "step": {
+            "id": 2,
+            "nome": "incluir",
+            "descricao": "Incluir proposta",
+            "relativePath": "/operacao/incluir-proposta"
+        },
+        "idFinalizacao": 1,
+        "finalizacao": {
+            "id": 0,
+            "nome": null,
+            "descricao": null
+        },
+        "valorBruto": 48021.32,
+        "inicioOperacao": "0001-01-01T00:00:00",
+        "expiraOperacao": "0001-01-01T00:00:00"
+    },
+    {
         "idOperacao": 10083,
         "idCedente": 1,
         "cedente": "Andrew Luciano",
