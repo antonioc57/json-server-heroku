@@ -180,7 +180,7 @@
         "idStep": 4,
         "step": {
             "id": 4,
-            "nome": "Pagamento",
+            "nome": "pagamento",
             "descricao": "Pagamento",
             "relativePath": "/operacao/pagamento"
         },
@@ -203,7 +203,7 @@
         "idStep": 4,
         "step": {
             "id": 4,
-            "nome": "Pagamento",
+            "nome": "download",
             "descricao": "Pagamento",
             "relativePath": "/operacao/pagamento"
         },
@@ -226,7 +226,7 @@
         "idStep": 4,
         "step": {
             "id": 4,
-            "nome": "Pagamento",
+            "nome": "negociar",
             "descricao": "Pagamento",
             "relativePath": "/operacao/pagamento"
         },
