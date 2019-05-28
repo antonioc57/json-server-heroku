@@ -204,8 +204,8 @@
         "step": {
             "id": 1,
             "nome": "download",
-            "descricao": "Pagamento",
-            "relativePath": "/operacao/pagamento"
+            "descricao": "Download",
+            "relativePath": "/operacao/download"
         },
         "idFinalizacao": 13234,
         "finalizacao": {
@@ -227,8 +227,8 @@
         "step": {
             "id": 3,
             "nome": "negociar",
-            "descricao": "Pagamento",
-            "relativePath": "/operacao/pagamento"
+            "descricao": "Negociar",
+            "relativePath": "/operacao/negociar"
         },
         "idFinalizacao": 1,
         "finalizacao": {
