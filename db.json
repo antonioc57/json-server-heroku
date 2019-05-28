@@ -182,7 +182,7 @@
             "id": 2,
             "nome": "incluir",
             "descricao": "Incluir proposta",
-            "relativePath": "/operacao/incluir-proposta"
+            "relativePath": "/operacoes/incluir-proposta"
         },
         "idFinalizacao": 1,
         "finalizacao": {
@@ -205,7 +205,7 @@
             "id": 4,
             "nome": "pagamento",
             "descricao": "Pagamento",
-            "relativePath": "/operacao/pagamento"
+            "relativePath": "/operacoes/pagamento"
         },
         "idFinalizacao": 1,
         "finalizacao": {
@@ -228,7 +228,7 @@
             "id": 1,
             "nome": "download",
             "descricao": "Download",
-            "relativePath": "/operacao/download"
+            "relativePath": "/operacoes/download"
         },
         "idFinalizacao": 13234,
         "finalizacao": {
@@ -251,7 +251,7 @@
             "id": 3,
             "nome": "negociar",
             "descricao": "Negociar",
-            "relativePath": "/operacao/negociar"
+            "relativePath": "/operacoes/negociar"
         },
         "idFinalizacao": 1,
         "finalizacao": {
