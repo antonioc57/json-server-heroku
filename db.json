@@ -202,7 +202,7 @@
         "convenio": "Antonio Lima",
         "idStep": 4,
         "step": {
-            "id": 4,
+            "id": 1,
             "nome": "download",
             "descricao": "Pagamento",
             "relativePath": "/operacao/pagamento"
@@ -225,7 +225,7 @@
         "convenio": "Antonio Lima",
         "idStep": 4,
         "step": {
-            "id": 4,
+            "id": 3,
             "nome": "negociar",
             "descricao": "Pagamento",
             "relativePath": "/operacao/pagamento"
